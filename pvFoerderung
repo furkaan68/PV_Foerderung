@@ -1,4 +1,6 @@
 {
+"items":[
+{
 name: 'Maier',
 plz: '4020',
 zaehlpunkt: '0000-5232-4199-1234-0983',
@@ -18,5 +20,7 @@ plz: '4400',
 zaehlpunkt: '0450-9832-4109-1764-1999',
 kwPeak: 19.0,
 bewilligt: false,
+}
+]
 }
 
